@@ -1,0 +1,17 @@
+Main here. Creating thread 0
+Main here. Creating thread 1
+Main here. Creating thread 2
+Main here. Creating thread 3
+Main here. Creating thread 4
+Main here. Creating thread 5
+Thread 0x4 made var = 1
+Main here. Creating thread 6
+Thread (nil) made var = 2
+Thread 0x5 made var = 3
+Thread 0x1 made var = 4
+Thread 0x2 made var = 5
+Main here. Creating thread 7
+Thread 0x3 made var = 6
+Main here. Creating thread 8
+Main here. Creating thread 9
+Thread 0x6 made var = 7
