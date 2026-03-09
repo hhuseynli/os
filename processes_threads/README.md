@@ -6,3 +6,6 @@
 - Coordination
 
 `practice/` folder contains simple projects for further practice.
+
+
+Note: when compiling any of these you must tell the compiler to link the thread library as such `gcc -o <program> <program.c> -lpthread`
